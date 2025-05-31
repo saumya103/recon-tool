@@ -1,0 +1,18 @@
+
+---
+
+## 📑 3. `sample-output.txt` (Optional)
+
+```txt
+Target: google.com
+[+] IP Address: 142.250.195.14
+
+[+] HTTP Headers:
+   Content-Type: text/html
+   Server: gws
+   X-Frame-Options: SAMEORIGIN
+
+[+] WHOIS Info:
+   Domain Name: GOOGLE.COM
+   Registrar: MarkMonitor Inc.
+   Creation Date: 1997-09-15
